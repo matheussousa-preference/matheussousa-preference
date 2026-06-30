@@ -1,16 +1,22 @@
-## Hi there 👋
+# Matheus Sousa · Desenvolvedor Backend Sênior
 
-<!--
-**matheussousa-preference/matheussousa-preference** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Conta utilizada para contribuições em repositórios privados corporativos.
 
-Here are some ideas to get you started:
+Atuo como Desenvolvedor Backend Sênior no ecossistema .NET, com foco em manutenção e evolução de sistemas em produção, integrações com ERPs, SQL Server, XML, REST APIs, webhooks e geração de arquivos para processos industriais/CNC.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A maior parte da atividade deste perfil acontece em repositórios privados, por isso o código não está publicamente disponível.
+
+## Principais frentes de atuação
+
+- Desenvolvimento e manutenção de sistemas backend em C#/.NET
+- Integrações com ERPs e sistemas terceiros
+- Diagnóstico e correção de bugs críticos em produção
+- Evolução de sistemas legados em arquitetura de três camadas
+- SQL Server, procedures, queries e persistência de dados
+- Geração e transformação de arquivos XML/XSLT para processos industriais
+
+## Perfil público
+
+Para projetos demonstrativos, estudos arquiteturais e exemplos técnicos públicos:
+
+[github.com/SousaMatheus](https://github.com/SousaMatheus)
